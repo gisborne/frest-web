@@ -1,0 +1,10 @@
+name: frest_web
+description: a web-based FREST service
+author: Guyren G Howe
+homepage: github.com/gisborne/frest_dart
+environment:
+  sdk: '< 3.0.0'
+dependencies:
+  shelf: '>= 0.7.4'
+  frest_base: 
+    path: ../frest_base

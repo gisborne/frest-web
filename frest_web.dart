@@ -1,0 +1,1 @@
+export 'lib/frest_web.dart';
